@@ -908,7 +908,7 @@ Name        : Project-Team
 Institution : CDAC ACTS Bengaluru
 Project     : Adversarial Input Attack on ML-based IDS
 Dataset     : CICIDS2017 (Phase 2)
-GitHub      : github.com/Vishalpattewar/
+GitHub      : github.com/Vishalpattewar/Adversarial-Input-Attack-on-ML-based-IDS
 ```
 
 ---

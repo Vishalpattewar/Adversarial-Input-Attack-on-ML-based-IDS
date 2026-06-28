@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────
+# requirements.txt
+# Project : Adversarial Input Attack on ML-based IDS
+# Author  : CDAC ITISS
+#
+# Install:
+#   pip install -r requirements.txt
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# ─────────────────────────────────────────────────────────
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine learning utilities
+scikit-learn==1.4.2
+
+# Visualisation
+matplotlib==3.9.0
+
+# Model + scaler persistence
+joblib==1.4.2
+
+# Rich terminal dashboard (live_ids.py)
+rich==13.7.1
+
+# Live packet capture (live_ids.py)
+scapy==2.5.0
